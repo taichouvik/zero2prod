@@ -1,5 +1,5 @@
 -- Add migration script here
--- create suscriptions table
+-- create subscriptions table
 CREATE TABLE subscriptions(
 id uuid NOT NULL,
 PRIMARY KEY (id),
